@@ -1,1 +1,7 @@
 first line
+second line
+
+new info
+one more line 
+bla bla
+
